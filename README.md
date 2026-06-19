@@ -1,6 +1,12 @@
+
+
 # 🤖 AI Page Summarizer & Insights Emailer
 
 A clean, modern, and beginner-friendly full-stack application that takes any web page URL and a recipient's email address, automatically scrapes the webpage, generates an AI summary and key insights, logs the execution details in a Google Sheet, and emails the results directly to the user's inbox using an **n8n automation workflow**.
+
+---
+
+https://github.com/user-attachments/assets/7db2c423-5dcd-4ddd-a71c-1a5bc387f523
 
 ---
 
